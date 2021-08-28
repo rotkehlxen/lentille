@@ -3,7 +3,7 @@
 ## prettier in vs code
 
 - was not working at all initially
-- vs code settings that are definetly required:
+- vs code settings that are definitely required:
   1. installation of the plugin
   2. Editor: Default Formatter set to prettier
   3. Editor: Format On Save activated
