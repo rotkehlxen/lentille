@@ -1,3 +1,5 @@
-h1 {
-  font-size: large;
+.page-title {
+  letter-spacing: 0.3em;
+  font-size: 1rem;
+  margin-left: 10px;
 }
